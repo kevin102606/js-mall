@@ -1,0 +1,125 @@
+header {
+    height: 84px;
+    line-height: 84px;
+    border-bottom: 2px solid #b1191a;
+}
+
+.registerarea {
+    overflow: hidden;
+    height: 522px;
+    margin-top: 20px;
+    border: 1px solid #dfdfdf;
+}
+
+.registerarea h3 {
+    height: 41px;
+    line-height: 40px;
+    border-bottom: 1px solid #dfdfdf;
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #ececec;
+}
+
+.registerarea h3 span {
+    float: right;
+    font-size: 14px;
+}
+
+.reg_form {
+    width: 600px;
+    margin: 54px auto 0;
+}
+
+.reg_form li {
+    margin-bottom: 20px;
+}
+
+.reg_form label {
+    display: inline-block;
+    width: 86px;
+    font-size: 14px;
+    text-align: right;
+}
+
+.reg_form input[type^="text"] {
+    width: 241px;
+    height: 36px;
+    border: 1px solid #999999;
+}
+
+.reg_form .error {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(../images/error.png) no-repeat;
+    vertical-align: middle;
+    margin-top: -2px;
+}
+
+.reg_form .success {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(../images/success.png) no-repeat;
+    vertical-align: middle;
+    margin-top: -2px;
+}
+
+.reg_form .safe {
+    padding-left: 160px;
+}
+
+.reg_form .safe em {
+    display: inline-block;
+    padding: 0 12px;
+    color: #fff;
+}
+
+.reg_form .safe em:nth-child(1) {
+    background-color: #de1111;
+}
+
+.reg_form .safe em:nth-child(2) {
+    margin: 0 2px;
+    background-color: #40b83f;
+}
+
+.reg_form .safe em:nth-child(3) {
+    background-color: #f79100;
+}
+
+.agreement {
+    padding-left: 90px;
+}
+
+.agreement input {
+    vertical-align: middle;
+}
+
+.btn {
+    padding-left: 90px;
+}
+
+.btn a {
+    display: inline-block;
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    line-height: 34px;
+    margin-top: 30px;
+}
+
+footer {
+    background-color: #fff;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+footer .copyright {
+    padding-bottom: 0;
+}

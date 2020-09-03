@@ -1,0 +1,142 @@
+/* 秒杀模块 */
+.sk {
+    position: absolute;
+    top: 37px;
+    left: 185px;
+    padding: 3px 0 3px 13px;
+    border-left: 1px solid #b1191a;
+}
+
+nav {
+    height: 47px;
+    border-bottom: 2px solid #b1191a;
+}
+
+nav .sk_list {
+    float: left;
+}
+
+nav .sk_list li {
+    float: left;
+}
+
+nav .sk_list li a {
+    display: block;
+    line-height: 45px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 0 27px;
+}
+
+.nav .sk_con {
+    float: left;
+}
+
+nav .sk_con li {
+    float: left;
+}
+
+nav .sk_con li a {
+    display: block;
+    line-height: 45px;
+    font-size: 14px;
+    padding: 0 22px;
+}
+
+nav .sk_con li:last-child a::after {
+    content: '\e91e';
+    font-family: 'icomoon';
+}
+
+.sk_container {
+    overflow: hidden;
+}
+
+.sk_container .sk_bd li {
+    overflow: hidden;
+    float: left;
+    height: 460px;
+    width: 290px;
+    margin-right: 13px;
+    border: 1px solid transparent;
+}
+
+.sk_container .sk_bd li .title {
+    height: 35px;
+    margin-left: 12px;
+    line-height: 22px;
+}
+
+.sk_container .sk_bd li .price {
+    margin: 17px 0 11px 12px;
+}
+
+.sk_container .sk_bd li .price {
+    height: 19px;
+}
+
+.sk_container .sk_bd li .price strong {
+    font-size: 18px;
+    color: #e60012;
+}
+
+.sk_container .sk_bd li .price span {
+    font-size: 14px;
+    color: #a4a4a4;
+    text-decoration: line-through;
+}
+
+.sk_container .sk_bd li .sold {
+    height: 34px;
+    line-height: 34px;
+}
+
+.sk_container .sk_bd li .sold span {
+    float: left;
+    margin: 0 12px;
+}
+
+.sk_container .sk_bd li .sold span em {
+    color: #e12228;
+}
+
+.sk_container .sk_bd li .sold .rate {
+    float: left;
+    width: 132px;
+    height: 12px;
+    margin: 11px 0;
+    border: 1px solid #e12228;
+    border-radius: 6px;
+}
+
+.sk_container .sk_bd li .sold .rate>div {
+    background-color: #ed282e;
+    width: 87%;
+    height: 100%;
+
+}
+
+.sk_container .sk_bd li .operation {
+    height: 50px;
+    background-color: #b1191a;
+
+}
+
+.sk_container .sk_bd li .operation a {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.sk_container .sk_bd li:hover {
+    border: 1px solid red;
+}
+
+.sk_container .sk_bd li:nth-child(4n) {
+    margin-right: 0;
+}

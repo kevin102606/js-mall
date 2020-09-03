@@ -1,0 +1,152 @@
+/* 头部区域 */
+header .logo {
+    width: 173px;
+    height: 82px;
+    line-height: 82px;
+    text-align: center;
+}
+
+header .logo a {
+    display: block;
+    width: 171px;
+    height: 61px;
+    background: url(../images/logo.png) no-repeat;
+}
+
+/* 主体内容区域 */
+.login_area {
+    height: 486px;
+    background: url(../images/login-bg.png) no-repeat center;
+    background-color: #8801fe;
+}
+
+.w {
+    position: relative;
+}
+
+.login_form {
+    position: absolute;
+    top: 60px;
+    right: 115px;
+    width: 379px;
+    background-color: #fff;
+}
+
+.login_title li {
+    float: left;
+    width: 50%;
+    height: 42px;
+    background-color: #fcfcfc;
+    text-align: center;
+    line-height: 41px;
+    font-size: 18px;
+    color: #666666;
+}
+
+.login_title li:nth-child(1) {
+    border-right: 1px solid #ededed;
+    border-bottom: 1px solid #ededed;
+}
+
+.login_form .login_content {
+    clear: both;
+    padding: 30px 35px 15px;
+}
+
+.login_username,
+.login_password {
+    height: 36px;
+    border: 1px solid #bbbaba;
+    font-size: 14px;
+    color: #b2b2b2;
+    line-height: 34px;
+    padding-left: 48px;
+    margin-bottom: 17px;
+}
+
+.login_content .login_username {
+    background: url(../images/login-content-bg1.png) no-repeat;
+}
+
+.login_content .login_password {
+    background: url(../images/login-content-bg2.png) no-repeat;
+}
+
+.login_username,
+.login_password div input {
+    height: 34px;
+    width: 100%;
+}
+
+.login_setting {
+    height: 13px;
+    line-height: 13px;
+}
+
+.login_setting input {
+    float: left;
+}
+
+.login_setting label {
+    float: left;
+}
+
+.login_setting span {
+    float: right;
+}
+
+.login_btn {
+    height: 41px;
+    margin-top: 20px;
+    background-color: #c81623;
+    text-align: center;
+    line-height: 41px;
+}
+
+.login_btn a {
+    font-size: 16px;
+    color: #fff;
+}
+
+.login_registration {
+    height: 32px;
+    line-height: 32px;
+    margin-top: 30px;
+}
+
+.login_registration li {
+    float: left;
+}
+
+.login_registration li a {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+    background: url(../images/login-registration-1.png) no-repeat;
+}
+
+.login_registration li:nth-child(2) a {
+    background: url(../images/login-registration-2.png) no-repeat;
+}
+
+.login_registration li:nth-child(3) a {
+    background: url(../images/login-registration-3.png) no-repeat;
+}
+
+.login_registration li:nth-child(4) a {
+    background: url(../images/login-registration-4.png) no-repeat;
+}
+
+.login_registration>a {
+    float: right;
+    margin-right: 10px;
+    font-size: 14px;
+    color: #1474af;
+}
+
+footer {
+    margin-top: 0;
+    padding-top: 0;
+    background-color: #fff;
+}
