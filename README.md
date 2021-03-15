@@ -143,19 +143,18 @@
 ### 项目展示：
 
 <center>
-<img src="https://user-images.githubusercontent.com/50788337/111138767-4c468280-85bb-11eb-8f36-c1d9a6e800f1.png" width="400"/>
-    <img src="https://user-images.githubusercontent.com/50788337/111138783-510b3680-85bb-11eb-8da1-6f59155c36d4.png" width="400"/>
-    <img src="https://user-images.githubusercontent.com/50788337/111138798-536d9080-85bb-11eb-8e67-6c831f3c7238.png" width="400"/>
-  <img src="https://user-images.githubusercontent.com/50788337/111138823-59fc0800-85bb-11eb-8f1f-79e8ac25a722.png" width="400"/>
-    <img src="https://user-images.githubusercontent.com/50788337/111139414-0f2ec000-85bc-11eb-80d6-8fa0d20c9b74.png" width="400"/>
-    <img src="" width="400"/>
-    <img src="https://user-images.githubusercontent.com/50788337/111139445-1786fb00-85bc-11eb-844d-bcaff3f910eb.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/50788337/111138767-4c468280-85bb-11eb-8f36-c1d9a6e800f1.png"/>
+    <img src="https://user-images.githubusercontent.com/50788337/111138783-510b3680-85bb-11eb-8da1-6f59155c36d4.png"/>
+    <img src="https://user-images.githubusercontent.com/50788337/111138798-536d9080-85bb-11eb-8e67-6c831f3c7238.png"/>
+  <img src="https://user-images.githubusercontent.com/50788337/111138823-59fc0800-85bb-11eb-8f1f-79e8ac25a722.png"/>
+    <img src="https://user-images.githubusercontent.com/50788337/111139414-0f2ec000-85bc-11eb-80d6-8fa0d20c9b74.png"/>
+    <img src="https://user-images.githubusercontent.com/50788337/111139445-1786fb00-85bc-11eb-844d-bcaff3f910eb.png"/>
 </center>
 
 ### 项目使用：
 
 ```
 1. git clone https://github.com/kevin102606/js-mall
-2. cd  vue-mall
+2. cd  js-mall
 ````
 
