@@ -154,7 +154,7 @@
 ### 项目使用：
 
 ```
-1. git clone https://github.com/kevin102606/js-mall 
+1. git clone https://github.com/kevin102606/js-mall
 2. cd  js-mall
 ````
 
