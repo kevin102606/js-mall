@@ -29,7 +29,7 @@
 │  LICENSE                           // 开源协议
 │  list.html                         // 列表页面                    
 │  login.html                        // 登录页面
-│  README.md                         // README文档
+│  README.md                         // README文档 
 │  register.html                     // 注册页面
 │      
 ├─css                                // css样式
