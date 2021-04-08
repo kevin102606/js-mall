@@ -7,8 +7,8 @@
 ### 项目技术栈：   
 
 + html
-+ css 
-+ javascript     
++ css
++ javascript 
 
 ### 项目功能：
 
