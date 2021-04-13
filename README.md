@@ -6,7 +6,7 @@
 
 ### 项目技术栈：   
 
-+ html 
++ html
 + css
 + javascript
 
