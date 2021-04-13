@@ -1,4 +1,4 @@
-# js-mall 
+# js-mall
 
 ### 项目说明：
 
